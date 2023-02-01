@@ -2,8 +2,8 @@
 
 <hr/>
 
-- 🔭 I’m currently working at PostNL as the Lead Cloud Engineer at the Cloud Center of Excellence.
-- 🌱 Besides Cloud computing, I’m currently focusing on learning more about Artificial Inteligence.
+- 👯 I’m looking for collaborating on opensource projects, so don't hesitate to contact me to discuss it.
+- 🌱 I’m currently focusing on learning more about Artificial Inteligence.
 - 📫 Let's connect on [Linkedin](https://www.linkedin.com/in/leoneperdigao/)!
 
 
