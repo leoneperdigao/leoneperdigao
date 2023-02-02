@@ -1,4 +1,4 @@
-# Hi there, I'm Leone 👋
+# Hi there, I'm Leone (he/him) 👋
 
 I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source.
 
@@ -6,7 +6,7 @@ In my GitHub, you will find several different project in different languages suc
 
 📫 You can reach out to me via [Linkedin](https://www.linkedin.com/in/leoneperdigao/).
 
-✍️ Ocasionally, I also write about hot toppics in IT on [Medium](http://leoneperdigao.medium.com).
+✍️ Ocasionally, I also write about some IT topics on [Medium](http://leoneperdigao.medium.com).
 
 ## Professional Journey
 Throughout my career, I have had the opportunity to work in a diverse range of industries, including logistics, hardware manufacturing, software development, banking, and IT consulting. This has given me a well-rounded perspective on how to form teams, design, develop, operate, and optimize large-scale solutions.
