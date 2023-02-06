@@ -2,7 +2,7 @@
 
 I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source.
 
-In my GitHub, you will find several different project in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
+In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
 
 📫 You can reach out to me via [Linkedin](https://www.linkedin.com/in/leoneperdigao/).
 
@@ -18,7 +18,7 @@ I have a background in Computer Engineering, combined with Information Systems a
 - Software Engineering
 - Cloud Computing
 - IT Consulting
-- Machine Learning
+- Artificial Intelligence
 
 ## Personal Philosophy
 I am a dedicated learner who is constantly seeking knowledge and new experiences. I truly belive that software has the power to bring about positive change and I am a staunch advocate for open-source.
