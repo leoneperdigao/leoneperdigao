@@ -8,20 +8,7 @@ In my GitHub, you will find several different projects in different languages su
 
 ✍️ Ocasionally, I also write about some IT topics on [Medium](http://leoneperdigao.medium.com).
 
-## Professional Journey
-Throughout my career, I have had the opportunity to work in a diverse range of industries, including logistics, hardware manufacturing, software development, banking, and IT consulting. This has given me a well-rounded perspective on how to form teams, design, develop, operate, and optimize large-scale solutions.
-
-## Education
-I have a background in Computer Engineering, combined with Information Systems and am currently furthering my education by pursuing a Master's degree in Artificial Intelligence.
-
-## Areas of Expertise
-- Software Engineering
-- Cloud Computing
-- IT Consulting
-- Artificial Intelligence
-
-## Personal Philosophy
-I am a dedicated learner who is constantly seeking knowledge and new experiences. I truly belive that software has the power to bring about positive change and I am a staunch advocate for open-source.
+![Snake animation](https://github.com/leoneperdigao/leoneperdigao/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
