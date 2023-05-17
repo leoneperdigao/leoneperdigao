@@ -1,15 +1,13 @@
 # Hi there, I'm Leone (he/him) 👋
 
-I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source.
-
-In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
-
-📫 You can reach out to me via [Linkedin](https://www.linkedin.com/in/leoneperdigao/).
+I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source. In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
 
 ✍️ Ocasionally, I also write about some IT topics on [Medium](http://leoneperdigao.medium.com).
 
-![Snake animation](https://github.com/leoneperdigao/leoneperdigao/blob/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/leoneperdigao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/leoneperdigao/leoneperdigao/blob/output/github-contribution-grid-snake.svg)
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
