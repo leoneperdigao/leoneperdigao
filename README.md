@@ -4,9 +4,30 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
 
 ✍️ Ocasionally, I also write about some IT topics on [Medium](http://leoneperdigao.medium.com).
 
-<a href="https://www.linkedin.com/in/leoneperdigao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Connect with Me
+
+<style>
+  .image-link {
+    width: auto;
+    height: 100px;
+  }
+</style>
+
+<p>
+  <a href="https://www.linkedin.com/in/leoneperdigao/" target="_blank">
+    <img class="image-link" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://mentorcruise.com/mentor/leoneperdigao/" target="_blank"> 
+    <img class="image-link" src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" alt="MentorCruise"> 
+  </a>
+</p>
+
+## GitHub Statistics
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contributions
+
 ![Snake animation](https://github.com/leoneperdigao/leoneperdigao/blob/output/github-contribution-grid-snake.svg)
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
