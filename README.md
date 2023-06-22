@@ -15,12 +15,12 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
   </a>
 </p>
 
-## GitHub Statistics
+## Statistics
 
-
-Overview                                                                                                    |  Top Languages
-:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
-![Overview](https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&show_icons=true&theme=dark)
+<p float="center">
+<img src="https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark" width="45%" align="top"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&show_icons=true&theme=dark" width="45%" align="top" /> 
+</p>
 
 
 ## Contributions
