@@ -17,7 +17,11 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
 
 ## GitHub Statistics
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Overview                                                                                                    |  Top Languages
+:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
+![Overview](https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&show_icons=true&theme=dark)
+
 
 ## Contributions
 
