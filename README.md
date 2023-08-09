@@ -2,7 +2,7 @@
 
 I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source. In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
 
-✍️ Ocasionally, I also write about some IT topics on [Medium](http://leoneperdigao.medium.com).
+✍️ Ocasionally, I also write about some Computer Science topics on [Medium](http://leoneperdigao.medium.com).
 
 ## Connect with Me
 
