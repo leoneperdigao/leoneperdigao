@@ -18,15 +18,9 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
 ## Statistics
 
 <p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leoneperdigao&show_icons=true&theme=dark" width="50%" align="top" height="auto"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&show_icons=true&theme=dark&layout=donut" width="50%" height="auto" align="top" /> 
 </p>
 
-
-## Contributions
-
-![Snake animation](https://github.com/leoneperdigao/leoneperdigao/blob/output/github-contribution-grid-snake.svg)
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
