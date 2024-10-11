@@ -10,9 +10,6 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
   <a href="https://www.linkedin.com/in/leoneperdigao/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="50px">
   </a>
-  <a href="https://mentorcruise.com/mentor/leoneperdigao/" target="_blank"> 
-    <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="auto" height="50px" alt="MentorCruise"> 
-  </a>
 </p>
 
 ## Statistics
