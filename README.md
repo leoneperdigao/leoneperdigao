@@ -15,7 +15,7 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
 ## Statistics
 
 <p float="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&langs_count=10&show_icons=true&theme=dark&layout=donut" width="50%" height="auto" align="top" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&langs_count=5&show_icons=true&theme=dark&layout=compact" width="50%" height="auto" align="top" /> 
 </p>
 
 <!--
