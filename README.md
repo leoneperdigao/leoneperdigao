@@ -12,12 +12,6 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
   </a>
 </p>
 
-## Statistics
-
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&langs_count=5&show_icons=true&theme=dark&layout=compact" width="50%" height="auto" align="top" /> 
-</p>
-
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
