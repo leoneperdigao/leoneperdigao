@@ -7,10 +7,18 @@ I am a tech-savvy learner who is passionate about new technologies and solving r
 ## Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/leoneperdigao/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="50px">
+  <a href="https://www.linkedin.com/in/leoneperdigao/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+  </a>
+  <a href="https://mentorcruise.com/mentor/leoneperdigao/">
+    <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" alt="MentorCruise" height="28">
   </a>
 </p>
+
+<p>
+
+</p>
+
 
 <!--
 **leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
