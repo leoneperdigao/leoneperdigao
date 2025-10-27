@@ -1,36 +1,26 @@
+<p align="center">
+  <a href="https://taoq.ai/">
+    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="TaoQ AI" height="48">
+  </a>
+</p>
+
 # Hi there, I'm Leone (he/him) 👋
 
-I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source. In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
+Founder & Principal Researcher at <a href="https://taoq.ai/">TaoQ AI</a> and Lead AI Engineer. I build reliable, production-grade AI systems—from research prototypes to shipped products—with a focus on **agentic workflows**, **multimodal/VLMs**, and **reinforcement learning**. You’ll find a mix of open-source and experiments here in **Python**, **TypeScript**, **Go**, and **Java**.
 
-✍️ Ocasionally, I also write about some Computer Science topics on [Medium](http://leoneperdigao.medium.com).
+- **What I’m working on:** secure, interoperable **LLM/ML architectures** (AWS | Azure | Databricks), evaluation & safety harnesses, tool-using agents (planning/memory/tooling), perception-to-action stacks.  
+- **How I work:** research → hypotheses → fast iteration → strong evals → production; observability, testing, and failure analysis first.
 
 ## Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/leoneperdigao/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+  <a href="https://www.linkedin.com/in/leoneperdigao/"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"> 
   </a>
   <a href="https://mentorcruise.com/mentor/leoneperdigao/">
     <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" alt="MentorCruise" height="28">
   </a>
+  <a href="https://taoq.ai/" title="TaoQ AI">
+    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="TaoQ AI" height="34">
+  </a>
 </p>
-
-<p>
-
-</p>
-
-
-<!--
-**leoneperdigao/leoneperdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
