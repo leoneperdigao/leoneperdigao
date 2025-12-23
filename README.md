@@ -8,8 +8,7 @@
 
 Founder & Principal Researcher at <a href="https://taoq.ai/">TaoQ AI</a> and Lead AI Engineer. I build reliable, production-grade AI systems—from research prototypes to shipped products—with a focus on **agentic workflows**, **multimodal/VLMs**, and **reinforcement learning**. You’ll find a mix of open-source and experiments here in **Python**, **TypeScript**, **Go**, and **Java**.
 
-- **What I’m working on:** secure, interoperable **LLM/ML architectures** (AWS | Azure | Databricks), evaluation & safety harnesses, tool-using agents (planning/memory/tooling), perception-to-action stacks.  
-- **How I work:** research → hypotheses → fast iteration → strong evals → production; observability, testing, and failure analysis first.
+Lately, I've been working on secure, interoperable **LLM/ML architectures** across diferent (cloud/on-prem) platforms, evaluation & safety harnesses, tool-using agents (planning/memory/tooling), perception-to-action stacks. 
 
 ## Connect with Me
 
