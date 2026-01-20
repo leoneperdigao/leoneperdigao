@@ -8,7 +8,7 @@
 
 **AI Architect & Engineer** — I help companies get AI right, from strategy through implementation.
 
-I work across both altitudes: I advise CTOs on AI direction, then help their teams build it. I create enterprise AI architectures, then review the PRs that implement them. That's the rare combination — principal-level thinking with hands-on delivery.
+I work across both altitudes: I advise C-level on AI direction, then help their teams build it. I create enterprise AI architectures, then review the PRs that implement them. I work end to end — principal-level thinking with hands-on delivery.
 
 ## What I'm Working On
 
