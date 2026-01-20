@@ -1,25 +1,42 @@
 <p align="center">
   <a href="https://taoq.ai/">
-    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="TaoQ AI" height="48">
+    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="taoq.ai" height="48">
   </a>
 </p>
 
-# Hi there, I'm Leone (he/him) 👋
+# Hi, I'm Leone 👋
 
-Founder & Principal Researcher at <a href="https://taoq.ai/">TaoQ AI</a> and Lead AI Engineer. I build reliable, production-grade AI systems—from research prototypes to shipped products—with a focus on **agentic workflows**, **multimodal/VLMs**, and **reinforcement learning**. You’ll find a mix of open-source and experiments here in **Python**, **TypeScript**, **Go**, and **Java**.
+**AI Architect & Engineer** — I help companies get AI right, from strategy through implementation.
 
-Lately, I've been working on secure, interoperable **LLM/ML architectures** across diferent (cloud/on-prem) platforms, evaluation & safety harnesses, tool-using agents (planning/memory/tooling), perception-to-action stacks. 
+I work across both altitudes: I advise CTOs on AI direction, then help their teams build it. I create enterprise AI architectures, then review the PRs that implement them. That's the rare combination — principal-level thinking with hands-on delivery.
 
-## Connect with Me
+## What I'm Working On
+
+- **Enterprise AI Architecture** — designing AI systems at scale (Generative AI, Agentic AI, MLOps)
+- **LLM/Agent Systems** — tool-using agents, planning/memory architectures, evaluation & safety
+- **Production AI** — from research prototypes to shipped products that actually work
+
+Building in **Python**, **TypeScript**, **Go**, and **Java**.
+
+## Background
+
+- 12+ years in software engineering, 5+ specializing in AI/ML
+- MSc in Artificial Intelligence (University of Bath, with Distinction)
+- Previously: IBM (Advisory AI Engineer across 15+ countries), PostNL (AI architecture with CTO)
+
+## Connect
 
 <p>
+  <a href="https://taoq.ai/" title="Website">
+    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="TWebsite" height="28">
+  </a>
   <a href="https://www.linkedin.com/in/leoneperdigao/"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"> 
+  </a>
+  <a href="https://leoneperdigao.medium.com/">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="28">
   </a>
   <a href="https://mentorcruise.com/mentor/leoneperdigao/">
     <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" alt="MentorCruise" height="28">
-  </a>
-  <a href="https://taoq.ai/" title="TaoQ AI">
-    <img src="https://taoq.ai/images/uploads/white-logo-with-name-transparent-background.png" alt="TaoQ AI" height="34">
   </a>
 </p>
