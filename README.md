@@ -22,7 +22,7 @@ Building in **Python**, **TypeScript**, **Go**, and **Java**.
 
 - 12+ years in software engineering, 5+ specializing in AI/ML
 - MSc in Artificial Intelligence (University of Bath, with Distinction)
-- Previously: IBM (Advisory AI Engineer across 15+ countries), PostNL (AI architecture with CTO)
+- Previously: IBM (Advisory AI Engineer across 15+ countries), PostNL, ABN AMRO
 
 ## Connect
 
