@@ -2,7 +2,7 @@
 
 ai architect & engineer · 15+ yrs in software
 
-`ml systems` `agent architectures` `llm/mlops` `ai security`
+`ml systems` `genai` `agent architectures` `llm/mlops` `ai security`
 
 msc artificial intelligence · university of bath · distinction  
 ibm · postnl · abn amro → independent consultant
